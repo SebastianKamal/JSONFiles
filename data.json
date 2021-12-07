@@ -1,0 +1,32 @@
+{
+  {
+    "name": "Cuisipro Stainless Steel Whisk",
+    "image": "images/Cuisipro Stainless Steel Whisk.png",
+    "price": "$9.99 CAD"
+  },
+  {
+    "name": "KitchenAid Silicone Spatula",
+    "image": "images/KitchenAid Silicone Spatula.png",
+    "price": "$49.99 CAD"
+  },
+  {
+    "name": "Plastic Cutting Board",
+    "image": "images/Plastic Cutting Board.png",
+    "price": "$69.99 CAD"
+  },
+  {
+    "name": "SCANPAN Classic Fry Pan",
+    "image": "images/SCANPAN Classic Fry Pan.png",
+    "price": "$119.99 CAD"
+  },
+  {
+    "name": "Stainless Steel Frypan",
+    "image": "images/Stainless Steel Frypan.png",
+    "price": "$114.99 CAD"
+  },
+  {
+    "name": "Walnut Knife Holder",
+    "image": "images/Walnut Knife Holder.png",
+    "price": "$149.99 CAD"
+  },
+}
