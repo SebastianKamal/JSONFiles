@@ -1,4 +1,4 @@
-{
+[
   {
     "name": "Cuisipro Stainless Steel Whisk",
     "image": "images/Cuisipro Stainless Steel Whisk.png",
@@ -28,5 +28,5 @@
     "name": "Walnut Knife Holder",
     "image": "images/Walnut Knife Holder.png",
     "price": "$149.99 CAD"
-  },
-}
+  }
+]
